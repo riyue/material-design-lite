@@ -28,7 +28,7 @@
     "gulp-file": "^0.2.0",
     "gulp-flatten": "^0.2.0",
     "gulp-front-matter": "^1.2.2",
-    "gulp-header": "^1.2.2",
+    "gulp-header": "^1.8.8",
     "gulp-if": "^2.0.0",
     "gulp-iife": "^0.1.0",
     "gulp-imagemin": "^2.2.1",
